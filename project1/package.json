@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fslo1709/Node.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "Fernando Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fslo1709/Node/issues"
+  },
+  "homepage": "https://github.com/fslo1709/Node#readme"
+}
